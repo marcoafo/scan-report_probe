@@ -19,12 +19,12 @@ include $(INCLUDE_DIR)/package.mk
 # to keep things simple, a number of fields have been left at their defaults
 # and are not shown here.
 define Package/scan-report_probe
-  SECTION:=base
-  CATEGORY:=Network
-  TITLE:=Ethernet bridging configuration utility
+  SECTION:=utils
+  CATEGORY:=Utilities
+  TITLE:=scan-report_probe
   URL:=https://github.com/luigiDB/scan-report_probe
   TITLE:=Scan in monitor mode probe over wifi channel with periodic report to a server through http post.
-  MAINTAINER:=Your email address <user@example.com>
+  MAINTAINER:=Please refer to github repository page
 endef
 
 define Package/scan-report_probe/description
@@ -33,13 +33,20 @@ define Package/scan-report_probe/description
 endef
 
 
-
 define Build/Prepare
 	mkdir -p $(PKG_BUILD_DIR)
 	$(CP) ./src/* $(PKG_BUILD_DIR)/
 endef
 
 
+CONFIGURE_VARS+= \
+    CC="$(TOOLCHAIN_DIR)/bin/$(TARGET_CC)"
+
+
+define Build/Compile
+	$(MAKE) -C $(PKG_BUILD_DIR)/scan-report_probe $(TARGET_CONFIGURE_OPTS)
+endef
+	
 # We'll use the OpenWrt defaults to configure and compile the package. Otherwise we'd need to define
 # Build/Configure - commands to invoke a configure (or similar) script
 # Build/Compile - commands used to run make or otherwise build the source
@@ -63,14 +70,17 @@ define Package/scan-report_probe/install
         # copy the data files
         $(INSTALL_DATA) $(PKG_BUILD_DIR)/data/* $(1)/usr/share/scan-report_probe
 
-        # copy the binary
-        $(INSTALL_BIN) $(PKG_BUILD_DIR)/scan-report_probe $(1)/bin
+		#make directory bin
+        $(INSTALL_DIR) $(1)/bin
 		
-		#make the directory init.d in case isn't present
-		$(INSTALL_DIR) $(1)/etc/init.d
+		# copy the binary
+        $(INSTALL_BIN) $(PKG_BUILD_DIR)/scan-report_probe/a $(1)/bin
 		
-		#copy script to init.d
-		$(INSTALL_DATA) $(PKG_BUILD_DIR)/runScript/* $(1)/etc/init.d
+	    #make the directory init.d in case isn't present
+	    $(INSTALL_DIR) $(1)/etc/init.d
+		
+	    #copy script to init.d
+	    $(INSTALL_BIN) $(PKG_BUILD_DIR)/runScript/scanReportProbe $(1)/etc/init.d
 		
 		
 endef
@@ -99,4 +109,4 @@ define Package/scan-report_probe/prerm
 	exit 0
 endef
 
-$(eval $(call BuildPackage,bridge))
+$(eval $(call BuildPackage,scan-report_probe))
