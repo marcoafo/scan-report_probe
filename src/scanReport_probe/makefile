@@ -6,7 +6,7 @@ all: main
 
 # build it
 main: a.o
-	$(CC) $(LDFLAGS) a.o -o a
+	$(CC) $(LDFLAGS) a.o -o scanReportProbe
 
 a.o: a.c
 	$(CC) $(CFLAGS) -c a.c
