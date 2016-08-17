@@ -74,7 +74,7 @@ define Package/scanReport_probe/install
 	$(INSTALL_DIR) $(1)/bin
 	
 	# copy the binary
-	$(INSTALL_BIN) $(PKG_BUILD_DIR)/scanReport_probe/a $(1)/bin
+	$(INSTALL_BIN) $(PKG_BUILD_DIR)/scanReport_probe/scanReportProbe $(1)/bin
 	
 	#make the directory init.d in case isn't present
 	$(INSTALL_DIR) $(1)/etc/init.d
