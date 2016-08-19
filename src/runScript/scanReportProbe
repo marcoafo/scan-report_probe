@@ -1,0 +1,28 @@
+#!/bin/sh /etc/rc.common
+# Configuration script for scanReport_probe
+# MIT license
+
+# NOT COMPLETE SOME ERROR MAY OCCUR
+
+ 
+START=99
+
+PROCESS="scanReportProbe"
+
+start() {        
+	echo "start $PROCESS"
+	
+	echo "set up wifi antenna"
+	iw phy0 interface add mon0 type monitor
+	echo "wake up wifi in monitor mode"
+	ifconfig mon0 up
+	# commands to launch application
+	echo "run application"
+	scanReportProbe &
+}                 
+
+stop() {
+	PID="$(pidof $PROCESS)"
+	echo "kill $PROCESS"
+	echo "$(kill -9 $PID)"
+}
