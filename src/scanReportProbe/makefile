@@ -13,4 +13,4 @@ a.o: a.c
 	
 # clean it
 clean:
-	rm *.o a
+	rm *.o scanReportProbe
