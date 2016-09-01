@@ -1,0 +1,39 @@
+#!/bin/sh /etc/rc.common
+# configuration script for scanReportProbe
+#MIT license
+
+START=99
+STOP=99
+
+PROCESS="scanReportProbe"
+DATA_FOLDER="/usr/share/scanReportProbe"
+LOG_FILE=$PROCESS"_log"
+LOG_FILE_PATH="$DATA_FOLDER/$LOG_FILE"
+
+start(){
+	touch $LOG_FILE_PATH
+	
+	echo "start $PROCESS"
+	echo "[$(date)] start process">>$LOG_FILE_PATH
+	
+	echo "set up wifi antenna"
+	iw phy0 interface add mon0 type monitor
+	echo "[$(date)] create mon0 interface">>$LOG_FILE_PATH
+	
+	echo "wake up monitor mode"
+	ifconfig mon0 up
+	echo "[$(date)] start monitor mode">>$LOG_FILE_PATH
+	
+	#lauch application
+	echo "run application"
+	scanReportProbe &
+	echo "[$(date)] run application in background">>$LOG_FILE_PATH
+}
+
+stop(){
+	echo "[$(date)] stop process">>$LOG_FILE_PATH
+	PID="$(pidof $PROCESS)"
+	echo "kill $PROCESS"
+	echo "$(kill -9 $PID)"
+	echo "[$(date)] process killed">>$LOG_FILE_PATH
+}
