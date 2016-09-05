@@ -14,17 +14,20 @@ PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 #needed 
 include $(INCLUDE_DIR)/package.mk
 
+TARGET_LDFLAGS+= \
+  -Wl,-rpath-link=$(STAGING_DIR)/usr/lib \
+  -Wl,-rpath-link=$(STAGING_DIR)/usr/lib/libpcap/lib
 
 # Metadata; information about what the package is for the ipkg listings
 # to keep things simple, a number of fields have been left at their defaults
 # and are not shown here.
 define Package/scanReportProbe
-	SECTION:=utils
-	CATEGORY:=Utilities
-	TITLE:=scanReportProbe
-	URL:=https://github.com/luigiDB/scan-report_probe
-	TITLE:=Scan in monitor mode probe over wifi channel with periodic report to a server through http post.
-	MAINTAINER:=Please refer to github repository page
+    SECTION:=utils
+    CATEGORY:=Utilities
+    TITLE:=scanReportProbe
+    URL:=https://github.com/luigiDB/scan-report_probe
+    TITLE:=Scan in monitor mode probe over wifi channel with periodic report to a server through http post.
+    MAINTAINER:=Please refer to github repository page
 endef
 
 define Package/scanReportProbe/description
