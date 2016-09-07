@@ -5,9 +5,9 @@ CFLAGS += -O2 -s
 #CFLAGS += -g
 
 # The target
-TARGET = scanReportProbe
+TARGET = probe_sniffer
 # Object files
-OBJECTS = scanReportProbe.o radiotap.o 
+OBJECTS = probe_sniffer.o radiotap.o consumer.o
 
 all: $(TARGET)
 
