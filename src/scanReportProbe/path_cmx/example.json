@@ -1,0 +1,2634 @@
+{
+   "version":"2.0",
+   "secret":"la_mia_password",
+   "type":"DevicesSeen",
+   "data":{
+      "apMac":"88:15:44:7f:99:80",
+      "apFloors":[
+
+      ],
+      "apTags":[
+
+      ],
+      "observations":[
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"cc:78:5f:8d:99:7c",
+            "seenEpoch":1473164411,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:35Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"9c:2a:83:29:57:c7",
+            "seenEpoch":1473164435,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":16.982193681298142,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:10:7f:11:75:38",
+            "seenEpoch":1473164442,
+            "rssi":30,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:52Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"bc:4c:c4:a1:ef:10",
+            "seenEpoch":1473164452,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:12Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:88:05:ac:69:9c",
+            "seenEpoch":1473164472,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:18Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"24:f0:94:88:78:23",
+            "seenEpoch":1473164478,
+            "rssi":6,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"14:9a:10:c2:61:d0",
+            "seenEpoch":1473164411,
+            "rssi":5,
+            "ipv6":null,
+            "manufacturer":"Microsoft"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:31Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"7c:0b:c6:44:37:a0",
+            "seenEpoch":1473164431,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:51Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"00:1f:3a:a2:f6:12",
+            "seenEpoch":1473164451,
+            "rssi":2,
+            "ipv6":null,
+            "manufacturer":"Hon Hai/Foxconn"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"74:91:1a:8d:6c:39",
+            "seenEpoch":1473164477,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:15Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"bc:4c:c4:30:05:5e",
+            "seenEpoch":1473164475,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:14Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"08:ec:a9:c0:07:67",
+            "seenEpoch":1473164474,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:59Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:9a:02:74:16:b5",
+            "seenEpoch":1473164459,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:02Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"44:80:eb:78:51:38",
+            "seenEpoch":1473164462,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:27Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"cc:c3:ea:9c:a1:97",
+            "seenEpoch":1473164427,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"10:f6:81:06:83:9a",
+            "seenEpoch":1473164442,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"vivo Mobile Communication"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:12Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"7c:11:be:ac:93:13",
+            "seenEpoch":1473164412,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:35Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"68:c4:4d:a2:77:f2",
+            "seenEpoch":1473164435,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:01Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"94:92:bc:01:74:64",
+            "seenEpoch":1473164401,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"SYNTECH(HK) Technology"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:39Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"50:9e:a7:3a:0f:e7",
+            "seenEpoch":1473164439,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:35Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"a8:81:95:9f:4f:c0",
+            "seenEpoch":1473164435,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:51Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"58:44:98:a3:68:6b",
+            "seenEpoch":1473164451,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Xiaomi Communications"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:52Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"2c:f0:a2:35:60:0e",
+            "seenEpoch":1473164452,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:01Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"b0:e2:35:89:72:5a",
+            "seenEpoch":1473164461,
+            "rssi":6,
+            "ipv6":null,
+            "manufacturer":"Xiaomi Communications"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":27.117066259517454,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:16Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"0c:b3:19:18:b4:2b",
+            "seenEpoch":1473164476,
+            "rssi":25,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:55Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"3c:83:75:a2:8d:60",
+            "seenEpoch":1473164455,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Microsoft"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:38Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:98:61:da:e2:4b",
+            "seenEpoch":1473164438,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"64:6c:b2:73:54:4d",
+            "seenEpoch":1473164411,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":34.71189026302631,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"ac:29:3a:b3:1a:89",
+            "seenEpoch":1473164471,
+            "rssi":42,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":14.811388300841896,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:10:7f:51:75:38",
+            "seenEpoch":1473164442,
+            "rssi":30,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:23Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:42:02:cd:29:7b",
+            "seenEpoch":1473164423,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:26Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"bc:44:34:51:a1:d4",
+            "seenEpoch":1473164426,
+            "rssi":20,
+            "ipv6":null,
+            "manufacturer":"Shenzhen TINNO Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":8.976311574844399,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:9a:02:8d:47:31",
+            "seenEpoch":1473164419,
+            "rssi":34,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:05Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c0:bd:d1:7d:48:63",
+            "seenEpoch":1473164465,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:13Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"68:48:98:63:52:48",
+            "seenEpoch":1473164413,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:40Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:f3:08:4d:0c:a7",
+            "seenEpoch":1473164440,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Murata Manufacturing"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:18Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"2c:29:97:20:f7:a9",
+            "seenEpoch":1473164478,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Microsoft"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:06Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"84:8e:df:fc:08:06",
+            "seenEpoch":1473164406,
+            "rssi":15,
+            "ipv6":null,
+            "manufacturer":"Sony Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:50Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"20:55:31:cc:b7:97",
+            "seenEpoch":1473164450,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"68:92:34:10:ee:08",
+            "seenEpoch":1473164417,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:66:78:90:69:53",
+            "seenEpoch":1473164409,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:15Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"b4:74:43:b9:36:ed",
+            "seenEpoch":1473164475,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"6c:3e:6d:42:33:1b",
+            "seenEpoch":1473164469,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"68:92:34:10:ee:09",
+            "seenEpoch":1473164477,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":24.05936168136361,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"60:83:34:5a:05:c5",
+            "seenEpoch":1473164479,
+            "rssi":26,
+            "ipv6":null,
+            "manufacturer":"Huawei Technologies"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:52Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"94:92:bc:b5:ec:44",
+            "seenEpoch":1473164452,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"SYNTECH(HK) Technology"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":4.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:37Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:30:04:a8:00:76",
+            "seenEpoch":1473164437,
+            "rssi":40,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:47Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"38:f2:3e:26:05:70",
+            "seenEpoch":1473164447,
+            "rssi":15,
+            "ipv6":null,
+            "manufacturer":"Microsoft Mobile Oy"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:34Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"18:21:95:f3:f1:e6",
+            "seenEpoch":1473164434,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"bc:44:34:79:5d:b8",
+            "seenEpoch":1473164442,
+            "rssi":14,
+            "ipv6":null,
+            "manufacturer":"Shenzhen TINNO Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:29Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"50:56:bf:22:65:4e",
+            "seenEpoch":1473164429,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:14Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"18:34:51:4c:c8:9c",
+            "seenEpoch":1473164414,
+            "rssi":6,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"7c:c5:37:25:05:3b",
+            "seenEpoch":1473164411,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:52Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"b4:ef:39:bc:82:b8",
+            "seenEpoch":1473164452,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:10Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"38:d4:0b:a2:78:e5",
+            "seenEpoch":1473164470,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:23Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"3c:ab:8e:bb:f4:49",
+            "seenEpoch":1473164423,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:03Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"3c:83:75:21:d6:cc",
+            "seenEpoch":1473164403,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Microsoft"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:02Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"04:48:9a:62:eb:af",
+            "seenEpoch":1473164462,
+            "rssi":14,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"74:91:1a:0d:6c:38",
+            "seenEpoch":1473164477,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:16Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"64:cc:2e:ea:3e:f0",
+            "seenEpoch":1473164476,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Xiaomi Communications"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:03Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c0:ee:fb:24:7c:18",
+            "seenEpoch":1473164463,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"OnePlus Tech (Shenzhen)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:29Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:78:6a:34:5b:96",
+            "seenEpoch":1473164429,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":43.562546906687274,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:b8:37:d1:85:3d",
+            "seenEpoch":1473164469,
+            "rssi":21,
+            "ipv6":null,
+            "manufacturer":"Sony Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:58Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:db:10:d0:a3:4b",
+            "seenEpoch":1473164458,
+            "rssi":5,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"7c:01:91:b1:bc:e8",
+            "seenEpoch":1473164442,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":46.361058513570036,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:08Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"64:a6:51:90:ec:6c",
+            "seenEpoch":1473164468,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Huawei Technologies"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"68:92:34:50:ee:09",
+            "seenEpoch":1473164417,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:29Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"74:3e:2b:1c:59:58",
+            "seenEpoch":1473164429,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"2c:29:97:20:f7:ab",
+            "seenEpoch":1473164479,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Microsoft"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:12Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"40:f3:08:69:7b:37",
+            "seenEpoch":1473164472,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Murata Manufacturing"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"74:91:1a:cd:6c:38",
+            "seenEpoch":1473164477,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:16Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"90:72:40:61:42:88",
+            "seenEpoch":1473164476,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":5.472381810048435,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:55Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"dc:41:5f:23:4d:b6",
+            "seenEpoch":1473164455,
+            "rssi":36,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:52Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"a8:5b:78:31:be:fc",
+            "seenEpoch":1473164452,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:37Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c8:6f:1d:18:4e:cc",
+            "seenEpoch":1473164437,
+            "rssi":15,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"14:1a:a3:f3:18:7e",
+            "seenEpoch":1473164479,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:10Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"1c:b0:94:1c:14:23",
+            "seenEpoch":1473164470,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"HTC"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:10:8a:ab:b0:58",
+            "seenEpoch":1473164419,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":10.1936056928417,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:18Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"10:30:47:ec:5d:b1",
+            "seenEpoch":1473164418,
+            "rssi":33,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"64:76:ba:06:82:f1",
+            "seenEpoch":1473164417,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:48Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"ec:9b:f3:81:fa:2f",
+            "seenEpoch":1473164448,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:42Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"b4:e1:c4:e4:1c:38",
+            "seenEpoch":1473164442,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Microsoft Mobile Oy"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:37Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:3a:be:fa:43:d3",
+            "seenEpoch":1473164437,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Sony Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:24Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"cc:c3:ea:ef:30:45",
+            "seenEpoch":1473164424,
+            "rssi":18,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:03Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"58:2a:f7:9e:04:83",
+            "seenEpoch":1473164403,
+            "rssi":14,
+            "ipv6":null,
+            "manufacturer":"Huawei Technologies"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:16Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e8:50:8b:c8:bd:e0",
+            "seenEpoch":1473164416,
+            "rssi":16,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:15Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:9a:02:9a:42:bc",
+            "seenEpoch":1473164475,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:22Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"30:10:b3:96:e9:c2",
+            "seenEpoch":1473164422,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Lite-On"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:02Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"d4:40:f0:b3:dc:60",
+            "seenEpoch":1473164402,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Huawei Technologies"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:03Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"6c:2f:2c:28:7b:d5",
+            "seenEpoch":1473164403,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:48Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e0:10:7f:14:38:88",
+            "seenEpoch":1473164448,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Ruckus Wireless"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:33Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"dc:ee:06:4f:02:a1",
+            "seenEpoch":1473164433,
+            "rssi":14,
+            "ipv6":null,
+            "manufacturer":"Huawei Technologies"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:02Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"f4:0e:22:f9:06:43",
+            "seenEpoch":1473164402,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:13Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"1c:7b:21:7b:a8:50",
+            "seenEpoch":1473164413,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Sony Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:17Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"f0:db:e2:b3:d6:41",
+            "seenEpoch":1473164417,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:19Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"48:13:7e:95:99:62",
+            "seenEpoch":1473164419,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:04Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"78:c3:e9:f5:a0:f8",
+            "seenEpoch":1473164464,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:47Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"24:4b:81:fa:ab:74",
+            "seenEpoch":1473164447,
+            "rssi":6,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:20Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"34:c0:59:88:af:bb",
+            "seenEpoch":1473164480,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:20Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"6c:2f:2c:48:a4:1d",
+            "seenEpoch":1473164480,
+            "rssi":14,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:15Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"8c:99:e6:d6:3e:bf",
+            "seenEpoch":1473164475,
+            "rssi":8,
+            "ipv6":null,
+            "manufacturer":"TCT mobile"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":38.71641173621407,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:39Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:9a:02:0f:f9:d5",
+            "seenEpoch":1473164439,
+            "rssi":22,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:26Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"d8:cf:9c:7f:fa:75",
+            "seenEpoch":1473164426,
+            "rssi":7,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:54Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"cc:c3:ea:37:55:f1",
+            "seenEpoch":1473164454,
+            "rssi":3,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:10Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"8c:1a:bf:82:49:bc",
+            "seenEpoch":1473164470,
+            "rssi":11,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:11Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"a4:c3:61:80:40:ec",
+            "seenEpoch":1473164471,
+            "rssi":4,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":21.33417960754815,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:34Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c4:43:8f:55:fb:eb",
+            "seenEpoch":1473164434,
+            "rssi":27,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":34.397289219206904,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:57Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"80:ea:96:d7:1f:1b",
+            "seenEpoch":1473164457,
+            "rssi":23,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":43.562546906687274,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"c0:bd:d1:ed:f0:a4",
+            "seenEpoch":1473164469,
+            "rssi":21,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:35Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"58:1f:aa:2d:ce:37",
+            "seenEpoch":1473164435,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:01Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"84:38:38:f9:ea:e8",
+            "seenEpoch":1473164461,
+            "rssi":19,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"18:3a:2d:cc:1b:84",
+            "seenEpoch":1473164469,
+            "rssi":10,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:09Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"f4:42:8f:ad:db:eb",
+            "seenEpoch":1473164469,
+            "rssi":19,
+            "ipv6":null,
+            "manufacturer":"Samsung"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:08Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"e8:50:8b:b9:f3:5a",
+            "seenEpoch":1473164468,
+            "rssi":5,
+            "ipv6":null,
+            "manufacturer":"Samsung(THAILAND)"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:21:03Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"00:ae:fa:f7:82:62",
+            "seenEpoch":1473164463,
+            "rssi":12,
+            "ipv6":null,
+            "manufacturer":"Murata Manufacturing"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:25Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"9c:d9:17:b8:a8:7c",
+            "seenEpoch":1473164425,
+            "rssi":9,
+            "ipv6":null,
+            "manufacturer":"Motorola Mobility LLC, a..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:02Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"b4:8b:19:be:d6:24",
+            "seenEpoch":1473164402,
+            "rssi":13,
+            "ipv6":null,
+            "manufacturer":"Apple"
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":49.0,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:43Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"5c:70:a3:63:26:f0",
+            "seenEpoch":1473164443,
+            "rssi":5,
+            "ipv6":null,
+            "manufacturer":"LG Electronics (Mobile..."
+         },
+         {
+            "ipv4":null,
+            "location":{
+               "lat":37.4180951010362,
+               "lng":-122.098531723022,
+               "unc":22.737635145742303,
+               "x":[
+
+               ],
+               "y":[
+
+               ]
+            },
+            "seenTime":"2016-09-06T12:20:50Z",
+            "ssid":null,
+            "os":null,
+            "clientMac":"48:5a:3f:11:e7:d0",
+            "seenEpoch":1473164450,
+            "rssi":26,
+            "ipv6":null,
+            "manufacturer":"WISOL"
+         }
+      ]
+   }
+}
