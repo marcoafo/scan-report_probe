@@ -1,7 +1,4 @@
 #include "consumer.h"
-#include <string.h>
-#include <stdio.h> 
-#include <stdlib.h> 
 
 /*
 * The actual process body taken by the clone function.
@@ -14,17 +11,17 @@ int consumer_process(void *arg){
 	
 	//Obtain the configuration parameters 
 	param = (struct parameters*)arg;
-	
-	
+	sleep(1);
 	/*---------------------Instructions to be executed periodically--------------------------------------*/
 	while(1){
 		//Acquire lock
+		sem_wait(param->mutex);
 		//Consume the buffer content
+		for(; *param->read_pointer != NULL; param->read_pointer += 1){
+			printf("Child read: %s\n", *param->read_pointer);
+		}
 		//Release lock
-		
-		printf("Child read: %s\n", param->string_buffer[0]);
-		printf("Child read: %s\n", param->string_buffer[5]);
-	
+		sem_post(param->mutex);
 		//Nothing more to do, go to sleep.
 		sleep(param->update_period);
 	}
@@ -34,11 +31,11 @@ int consumer_process(void *arg){
 /*
 * Function that allows you to initialize the parameters data structure containing
 * the configuration information needed by the second process.
-* It returns a pointer to a pre-allocated and initialized data structure.
+* It returns a pointer to a pre-allocated and initialized data structure, or null in case of error.
 */
-struct parameters* init_parameters(char* directory_path, char* server_ip_address, int update_period, char** string_buffer){
+struct parameters* init_parameters(char* directory_path, char* server_ip_address, int update_period, char** string_buffer, sem_t* mutex){
 	struct parameters* result;
-	if(directory_path == NULL || server_ip_address == NULL || update_period <= 0 || string_buffer == NULL)
+	if(directory_path == NULL || server_ip_address == NULL || update_period <= 0 || string_buffer == NULL || mutex == NULL)
 		return NULL;
 	//Allocate memory space for the data structure
 	result = (struct parameters*)malloc(sizeof(struct parameters));
@@ -52,6 +49,9 @@ struct parameters* init_parameters(char* directory_path, char* server_ip_address
 	strcpy(result->server_ip_address, server_ip_address);
 	//Copy memory address that points to the shared buffer
 	result->string_buffer = string_buffer;
-	
+	//At the beginning the reading pointer points to the first slot of the buffer
+	result->read_pointer = string_buffer;
+	//Copy the pointer to the semaphore
+	result->mutex = mutex;
 	return result;
 }
