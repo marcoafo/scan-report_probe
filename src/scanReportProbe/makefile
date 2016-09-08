@@ -1,5 +1,5 @@
 # Set the libraries to link
-LFLAGS += -lpcap
+LFLAGS += -lpcap -pthread
 CFLAGS += -O2 -s
 # Debug
 #CFLAGS += -g
