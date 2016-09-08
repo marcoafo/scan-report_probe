@@ -19,6 +19,7 @@ int consumer_process(void *arg){
 		//Consume the buffer content
 		for(; *param->read_pointer != NULL; param->read_pointer += 1){
 			printf("Child read: %s\n", *param->read_pointer);
+			*param->read_pointer = NULL;						//This is necessary because it is the only way to let the first process understands that this buffer slot has been read
 		}
 		//Release lock
 		sem_post(param->mutex);
