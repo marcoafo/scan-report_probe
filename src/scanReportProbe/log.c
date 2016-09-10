@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "system.h"       //useful in case of error to call SysShutdown();
 #include "log.h"
  
 bool LogCreated = false;
@@ -36,5 +35,4 @@ void LogErr (char *message)
 {	Log("Error message : ");
 	Log(message);
 	Log("\n");
-	SysShutdown();      //can be removed or commented if not useful
 }
